@@ -110,6 +110,3 @@ I have worked in the industry in the field of data engineering on big data pipel
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
