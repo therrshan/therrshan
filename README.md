@@ -105,7 +105,7 @@ I have worked in the industry in the field of data engineering on big data pipel
 
 <br/>  
 
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=xsmygar25jasu9y0f5ybbgldw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=xsmygar25jasu9y0f5ybbgldw&cover_image=true&theme=default&show_offline=true&background_color=050505&bar_color_cover=true)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsmygar25jasu9y0f5ybbgldw&cover_image=true&theme=default&show_offline=false&background_color=050505&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
 
 <br/>  
 
