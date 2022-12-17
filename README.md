@@ -32,16 +32,16 @@ I have worked in the industry in the field of data engineering on big data pipel
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 💭Current : Looking to get into Grad School.  
+- 💭**Current :** Looking to get into Grad School.  
   
 
-- ⏳Recent : Senior Data Engineer at LTI   
+- ⏳**Recent :** Senior Data Engineer at LTI   
   
 
-- 🧑‍🎓Education : B.E. Computer Engineering  
+- 🧑‍🎓**Education :** B.E. Computer Engineering  
   
 
-- 😄Fun fact: I like anime, music, sports and gaming.  
+- 😄**Fun fact:** I like anime, music, sports and gaming.  
 
 
 </td><td valign="top" width="50%">
@@ -102,12 +102,6 @@ I have worked in the industry in the field of data engineering on big data pipel
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therrshan&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xsmygar25jasu9y0f5ybbgldw&cover_image=true&theme=default&show_offline=false&background_color=050505&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=therrshan&&style=flat-square)  
   
